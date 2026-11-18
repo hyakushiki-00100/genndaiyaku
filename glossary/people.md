@@ -29,6 +29,6 @@
 
 ## 出典
 調査は WebSearch の検索結果要約によるもので、**各ページ本文は直接開いていない**。いずれも二次資料(個人サイト・解説記事)で、一次史料ではない。
-1. 個人サイト(泰庵? 「taiandir」)の解説 x013・x014: https://www.asahi-net.or.jp/~jt7t-imfk/taiandir/x014.htm 、 https://www.asahi-net.or.jp/~jt7t-imfk/taiandir/x013.htm (サイト名・筆者は未確認)
+1. 個人サイトの解説ページ x013・x014: https://www.asahi-net.or.jp/~jt7t-imfk/taiandir/x014.htm 、 https://www.asahi-net.or.jp/~jt7t-imfk/taiandir/x013.htm (サイト名・筆者は未確認)
 2. 東洋経済オンライン: https://toyokeizai.net/articles/-/641391?display=b (信忠・清康・信定の関係)
 3. Sengoku Period Wiki(英語): https://sengoku-period.fandom.com/wiki/Matsudaira_Hirotada (広忠と今川。ファン編集の wiki で信頼度は低い)
